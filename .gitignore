@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Large/raw data files
+.01_Problem_Statement.md
+.02_Solutions_and_Explanations.md
+
+
+# Temporary files
+*.tmp
+*.log

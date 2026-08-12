@@ -1,0 +1,587 @@
+product_id,product_name,category,sub_category,unit_price,weight_kg,supplier_id
+Prod00001,Team Sports Item 1,Sports,Team Sports,6735.55,13.88,Sup0013
+Prod00002,Bags Item 2,Fashion,Bags,2149.16,8.09,Sup0029
+Prod00003,Non-Fiction Item 3,Books,Non-Fiction,1908.75,7.79,Sup0052
+Prod00004,Dairy Item 4,Grocery,Dairy,952.05,6.14,Sup0042
+Prod00005,Cameras Item 5,Electronics,Cameras,13521.05,3.38,Sup0030
+Prod00006,Dairy Item 6,Grocery,Dairy,1362.15,11.28,Sup0049
+Prod00007,Cycling Item 7,Sports,Cycling,2862.81,3.5,Sup0015
+Prod00008,Personal Care Item 8,Grocery,Personal Care,1252.68,0.54,Sup0057
+Prod00009,Decor Item 9,Home & Kitchen,Decor,14308.44,5.55,Sup0015
+Prod00010,Comics Item 10,Books,Comics,1823.07,16.59,Sup0006
+Prod00011,Headphones Item 11,Electronics,Headphones,23056.68,6.34,Sup0006
+Prod00012,Furniture Item 12,Home & Kitchen,Furniture,,3.85,Sup0009
+Prod00013,Staples Item 13,Grocery,Staples,1126.93,2.75,Sup0002
+Prod00014,Personal Care Item 14,Grocery,Personal Care,1249.25,17.12,Sup0052
+Prod00015,Appliances Item 15,Home & Kitchen,Appliances,7663.52,24.02,Sup0041
+Prod00016,Bags Item 16,Fashion,Bags,1496.4,6.75,Sup0055
+Prod00017,Beverages Item 17,Grocery,Beverages,517.87,8.9,Sup0017
+Prod00018,Appliances Item 18,Home & Kitchen,Appliances,1421.35,16.17,Sup0032
+Prod00019,Beverages Item 19,Grocery,Beverages,805.76,17.59,Sup0018
+Prod00020,Cookware Item 20,Home & Kitchen,Cookware,10398.93,19.02,Sup0039
+Prod00021,Footwear Item 21,Fashion,Footwear,267.91,3.2,Sup0056
+Prod00023,Team Sports Item 23,Sports,Team Sports,6042.04,9.54,Sup0059
+Prod00024,Appliances Item 24,Home & Kitchen,Appliances,11140.33,3.97,Sup0012
+Prod00025,Children Item 25,Books,Children,234.31,6.65,Sup0051
+Prod00026,Snacks Item 26,Grocery,Snacks,1243.41,18.74,Sup0037
+Prod00027,Storage Item 27,Home & Kitchen,Storage,7482.86,6.3,Sup0006
+Prod00028,Fitness Item 28,Sports,Fitness,7611.43,22.91,Sup0012
+Prod00029,Cameras Item 29,Electronics,Cameras,21203.68,23.63,Sup0053
+Prod00030,Decor Item 30,Home & Kitchen,Decor,12993.92,1.4,Sup0034
+Prod00031,Laptops Item 31,Electronics,Laptops,16389.85,19.99,Sup0046
+Prod00032,Laptops Item 32,Electronics,Laptops,59539.3,12.75,Sup0018
+Prod00033,Dairy Item 33,Grocery,Dairy,1124.51,21.37,Sup0022
+Prod00034,Decor Item 34,Home & Kitchen,Decor,9950.12,19.08,Sup0025
+Prod00035,Non-Fiction Item 35,Books,Non-Fiction,1439.64,9.68,Sup0043
+Prod00036,Laptops Item 36,Electronics,Laptops,30386.32,18.07,Sup0027
+Prod00037,Decor Item 37,Home & Kitchen,Decor,1342.68,15.69,Sup0057
+Prod00038,Laptops Item 38,Electronics,Laptops,38054.08,21.82,Sup0029
+Prod00039,Cookware Item 39,Home & Kitchen,Cookware,2311.71,2.02,Sup0056
+Prod00040,Outdoor Item 40,Sports,Outdoor,9009.3,13.69,Sup0005
+Prod00041,Comics Item 41,Books,Comics,301.75,9.01,Sup0019
+Prod00042,Comics Item 42,Books,Comics,1251.78,22.61,Sup0019
+Prod00043,Women Clothing Item 43,Fashion,Women Clothing,3453.27,16.18,Sup0020
+Prod00044,Men Clothing Item 44,Fashion,Men Clothing,1768.25,12.57,Sup0018
+Prod00045,Staples Item 45,Grocery,Staples,1445.08,18.12,Sup0003
+Prod00046,Cameras Item 46,Electronics,Cameras,1328.16,23.51,Sup0007
+Prod00047,Team Sports Item 47,Sports,Team Sports,9112.0,3.54,Sup0040
+Prod00048,Bags Item 48,Fashion,Bags,2377.49,3.91,Sup0027
+Prod00049,Cookware Item 49,Home & Kitchen,Cookware,6753.73,22.55,Sup0042
+Prod00050,Cameras Item 50,Electronics,Cameras,5954.57,19.69,Sup0014
+Prod00051,Women Clothing Item 51,Fashion,Women Clothing,908.26,6.3,Sup0012
+Prod00053,Fitness Item 53,Sports,Fitness,6504.74,21.19,Sup0028
+Prod00054,Mobiles Item 54,Electronics,Mobiles,19665.65,14.95,Sup0019
+Prod00055,Fiction Item 55,Books,Fiction,957.41,8.51,Sup0030
+Prod00056,Decor Item 56,Home & Kitchen,Decor,13856.33,18.48,Sup0052
+Prod00058,Comics Item 58,Books,Comics,1190.36,21.14,Sup0003
+Prod00059,Fitness Item 59,Sports,Fitness,2878.05,8.81,Sup0012
+Prod00060,Men Clothing Item 60,Fashion,Men Clothing,2746.32,23.54,Sup0039
+Prod00061,Fitness Item 61,Sports,Fitness,4532.03,2.89,Sup0028
+Prod00062,Team Sports Item 62,Sports,Team Sports,3153.91,6.43,Sup0021
+Prod00063,Watches Item 63,Fashion,Watches,1304.53,10.93,Sup0030
+Prod00064,Cycling Item 64,Sports,Cycling,3382.73,20.81,Sup0059
+Prod00065,Dairy Item 65,Grocery,Dairy,1123.79,15.85,Sup0034
+Prod00066,Non-Fiction Item 66,Books,Non-Fiction,1345.12,19.33,Sup0032
+Prod00067,Children Item 67,Books,Children,934.99,15.8,Sup0051
+Prod00068,Storage Item 68,Home & Kitchen,Storage,12500.69,12.7,Sup0030
+Prod00069,Cameras Item 69,Electronics,Cameras,54588.47,20.28,Sup0054
+Prod00070,Men Clothing Item 70,Fashion,Men Clothing,2301.24,10.25,Sup0022
+Prod00071,Cookware Item 71,Home & Kitchen,Cookware,5890.48,3.8,Sup0006
+Prod00072,Comics Item 72,Books,Comics,723.43,17.59,Sup0040
+Prod00073,Comics Item 73,Books,Comics,1555.46,25.0,Sup0010
+Prod00074,Yoga Item 74,Sports,Yoga,3891.85,19.29,Sup0052
+Prod00075,Furniture Item 75,Home & Kitchen,Furniture,11323.01,19.62,Sup0058
+Prod00076,Personal Care Item 76,Grocery,Personal Care,639.62,21.83,Sup0004
+Prod00077,Accessories Item 77,Electronics,Accessories,51144.38,23.66,Sup0015
+Prod00078,Snacks Item 78,Grocery,Snacks,140.78,17.88,Sup0022
+Prod00079,Beverages Item 79,Grocery,Beverages,1360.67,23.51,Sup0039
+Prod00080,Cookware Item 80,Home & Kitchen,Cookware,11939.4,0.46,Sup0033
+Prod00081,Accessories Item 81,Electronics,Accessories,21492.55,13.62,Sup0051
+Prod00082,Snacks Item 82,Grocery,Snacks,44.04,15.73,Sup0050
+Prod00083,Appliances Item 83,Home & Kitchen,Appliances,12481.2,3.41,Sup0046
+Prod00084,Laptops Item 84,Electronics,Laptops,,16.19,Sup0019
+Prod00085,Decor Item 85,Home & Kitchen,Decor,13358.87,12.43,Sup0032
+Prod00086,Cameras Item 86,Electronics,Cameras,5196.16,7.7,Sup0039
+Prod00088,Laptops Item 88,Electronics,Laptops,50995.82,23.74,Sup0003
+Prod00089,Storage Item 89,Home & Kitchen,Storage,8012.48,18.41,Sup0032
+Prod00090,Storage Item 90,Home & Kitchen,Storage,10455.61,4.36,Sup0046
+Prod00091,Decor Item 91,Home & Kitchen,Decor,4461.88,4.39,Sup0024
+Prod00092,Women Clothing Item 92,Fashion,Women Clothing,326.16,2.2,Sup0020
+Prod00093,Personal Care Item 93,Grocery,Personal Care,970.66,21.96,Sup0050
+Prod00094,Watches Item 94,Fashion,Watches,4367.42,5.68,Sup0040
+Prod00095,Furniture Item 95,Home & Kitchen,Furniture,2008.78,23.54,Sup0010
+Prod00096,Appliances Item 96,Home & Kitchen,Appliances,1356.16,14.32,Sup0040
+Prod00097,Decor Item 97,Home & Kitchen,Decor,10322.11,12.13,Sup0014
+Prod00098,Decor Item 98,Home & Kitchen,Decor,5652.52,6.24,Sup0007
+Prod00099,Beverages Item 99,Grocery,Beverages,1401.95,24.9,Sup0030
+Prod00100,Dairy Item 100,Grocery,Dairy,92.01,16.83,Sup0019
+Prod00101,Decor Item 101,Home & Kitchen,Decor,6098.64,12.63,Sup0049
+Prod00102,Fitness Item 102,Sports,Fitness,5666.75,15.08,Sup0026
+Prod00103,Storage Item 103,Home & Kitchen,Storage,13413.01,15.43,Sup0054
+Prod00104,Cycling Item 104,Sports,Cycling,6803.3,19.93,Sup0047
+Prod00105,Appliances Item 105,Home & Kitchen,Appliances,8815.32,3.74,Sup0044
+Prod00106,Men Clothing Item 106,Fashion,Men Clothing,2210.15,21.22,Sup0047
+Prod00107,Storage Item 107,Home & Kitchen,Storage,2721.76,18.04,Sup0042
+Prod00108,Footwear Item 108,Fashion,Footwear,1279.36,7.96,Sup0023
+Prod00109,Cookware Item 109,Home & Kitchen,Cookware,13452.04,1.1,Sup0042
+Prod00110,Storage Item 110,Home & Kitchen,Storage,4176.32,6.02,Sup0004
+Prod00111,Mobiles Item 111,Electronics,Mobiles,25091.43,10.2,Sup0060
+Prod00112,Decor Item 112,Home & Kitchen,Decor,11565.57,0.98,Sup0059
+Prod00113,Cameras Item 113,Electronics,Cameras,47383.66,15.09,Sup0060
+Prod00114,Yoga Item 114,Sports,Yoga,2089.55,11.5,Sup0017
+Prod00115,Appliances Item 115,Home & Kitchen,Appliances,9222.67,10.05,Sup0007
+Prod00116,Men Clothing Item 116,Fashion,Men Clothing,,16.36,Sup0045
+Prod00117,Watches Item 117,Fashion,Watches,4630.91,9.22,Sup0015
+Prod00118,Children Item 118,Books,Children,1668.47,17.02,Sup0039
+Prod00119,Academic Item 119,Books,Academic,1187.71,8.24,Sup0034
+Prod00120,Snacks Item 120,Grocery,Snacks,215.28,16.84,Sup0020
+Prod00122,Comics Item 122,Books,Comics,251.56,21.87,Sup0009
+Prod00123,Cycling Item 123,Sports,Cycling,422.81,13.63,Sup0035
+Prod00124,Footwear Item 124,Fashion,Footwear,4401.0,22.23,Sup0016
+Prod00125,Fitness Item 125,Sports,Fitness,7592.98,24.84,Sup0015
+Prod00126,Team Sports Item 126,Sports,Team Sports,4252.89,14.81,Sup0048
+Prod00127,Snacks Item 127,Grocery,Snacks,1182.99,9.44,Sup0049
+Prod00128,Non-Fiction Item 128,Books,Non-Fiction,353.91,5.12,Sup0042
+Prod00129,Outdoor Item 129,Sports,Outdoor,913.29,16.8,Sup0014
+Prod00130,Laptops Item 130,Electronics,Laptops,56261.01,5.15,Sup0059
+Prod00131,Dairy Item 131,Grocery,Dairy,1326.56,19.05,Sup0021
+Prod00132,Outdoor Item 132,Sports,Outdoor,7256.12,5.79,Sup0037
+Prod00133,Academic Item 133,Books,Academic,418.81,4.27,Sup0047
+Prod00134,Fiction Item 134,Books,Fiction,111.14,15.79,Sup0005
+Prod00135,Cookware Item 135,Home & Kitchen,Cookware,9305.31,0.35,Sup0034
+Prod00136,Cycling Item 136,Sports,Cycling,1659.2,20.39,Sup0018
+Prod00137,Dairy Item 137,Grocery,Dairy,1245.53,0.84,Sup0026
+Prod00138,Laptops Item 138,Electronics,Laptops,5419.82,22.98,Sup0015
+Prod00139,Staples Item 139,Grocery,Staples,1350.98,7.9,Sup0042
+Prod00140,Snacks Item 140,Grocery,Snacks,1277.17,18.51,Sup0051
+Prod00141,Cookware Item 141,Home & Kitchen,Cookware,1278.87,8.19,Sup0041
+Prod00142,Appliances Item 142,Home & Kitchen,Appliances,10243.47,17.84,Sup0006
+Prod00143,Watches Item 143,Fashion,Watches,711.44,4.73,Sup0029
+Prod00144,Headphones Item 144,Electronics,Headphones,33476.08,18.13,Sup0036
+Prod00145,Watches Item 145,Fashion,Watches,1490.81,19.58,Sup0024
+Prod00146,Yoga Item 146,Sports,Yoga,3455.73,8.27,Sup0022
+Prod00147,Outdoor Item 147,Sports,Outdoor,1940.85,18.39,Sup0041
+Prod00148,Staples Item 148,Grocery,Staples,854.5,13.77,Sup0040
+Prod00149,Cookware Item 149,Home & Kitchen,Cookware,6225.75,17.9,Sup0051
+Prod00150,Cycling Item 150,Sports,Cycling,560.3,20.32,Sup0039
+Prod00151,Academic Item 151,Books,Academic,1936.91,19.92,Sup0007
+Prod00152,Yoga Item 152,Sports,Yoga,7768.95,8.66,Sup0002
+Prod00153,Mobiles Item 153,Electronics,Mobiles,49963.41,2.49,Sup0047
+Prod00154,Fiction Item 154,Books,Fiction,1506.67,13.82,Sup0022
+Prod00155,Beverages Item 155,Grocery,Beverages,1111.33,0.16,Sup0014
+Prod00156,Accessories Item 156,Electronics,Accessories,6554.25,13.22,Sup0041
+Prod00157,Headphones Item 157,Electronics,Headphones,21443.1,16.82,Sup0021
+Prod00158,Non-Fiction Item 158,Books,Non-Fiction,1307.09,16.15,Sup0012
+Prod00159,Storage Item 159,Home & Kitchen,Storage,14284.85,16.34,Sup0027
+Prod00160,Beverages Item 160,Grocery,Beverages,452.29,11.46,Sup0048
+Prod00161,Fitness Item 161,Sports,Fitness,7616.51,5.5,Sup0028
+Prod00162,Cookware Item 162,Home & Kitchen,Cookware,12278.42,20.28,Sup0038
+Prod00163,Beverages Item 163,Grocery,Beverages,1212.05,4.25,Sup0003
+Prod00164,Fitness Item 164,Sports,Fitness,2917.77,3.36,Sup0010
+Prod00165,Comics Item 165,Books,Comics,1303.53,2.37,Sup0033
+Prod00166,Personal Care Item 166,Grocery,Personal Care,1104.43,8.99,Sup0005
+Prod00167,Watches Item 167,Fashion,Watches,4176.05,17.08,Sup0004
+Prod00168,Mobiles Item 168,Electronics,Mobiles,55801.26,22.06,Sup0020
+Prod00169,Academic Item 169,Books,Academic,679.77,5.89,Sup0042
+Prod00170,Laptops Item 170,Electronics,Laptops,35823.93,17.37,Sup0031
+Prod00171,Mobiles Item 171,Electronics,Mobiles,19144.41,3.61,Sup0034
+Prod00172,Furniture Item 172,Home & Kitchen,Furniture,6263.89,18.82,Sup0038
+Prod00173,Women Clothing Item 173,Fashion,Women Clothing,604.39,21.2,Sup0043
+Prod00174,Watches Item 174,Fashion,Watches,461.93,14.87,Sup0034
+Prod00175,Furniture Item 175,Home & Kitchen,Furniture,6399.82,1.87,Sup0038
+Prod00176,Cameras Item 176,Electronics,Cameras,30643.33,15.42,Sup0018
+Prod00177,Bags Item 177,Fashion,Bags,3014.9,23.84,Sup0016
+Prod00178,Dairy Item 178,Grocery,Dairy,1116.17,4.14,Sup0040
+Prod00179,Furniture Item 179,Home & Kitchen,Furniture,13120.88,10.76,Sup0034
+Prod00180,Cameras Item 180,Electronics,Cameras,27584.27,14.37,Sup0047
+Prod00181,Laptops Item 181,Electronics,Laptops,3235.9,17.86,Sup0042
+Prod00182,Academic Item 182,Books,Academic,439.93,24.54,Sup0042
+Prod00183,Decor Item 183,Home & Kitchen,Decor,5628.45,9.24,Sup0003
+Prod00184,Outdoor Item 184,Sports,Outdoor,,8.41,Sup0049
+Prod00185,Laptops Item 185,Electronics,Laptops,32023.96,23.04,Sup0058
+Prod00186,Snacks Item 186,Grocery,Snacks,603.64,3.31,Sup0019
+Prod00187,Academic Item 187,Books,Academic,1210.53,4.15,Sup0030
+Prod00188,Watches Item 188,Fashion,Watches,1472.04,1.06,Sup0054
+Prod00189,Storage Item 189,Home & Kitchen,Storage,4013.48,18.71,Sup0016
+Prod00190,Mobiles Item 190,Electronics,Mobiles,4169.32,2.15,Sup0038
+Prod00191,Laptops Item 191,Electronics,Laptops,,11.55,Sup0011
+Prod00192,Snacks Item 192,Grocery,Snacks,1364.29,15.37,Sup0040
+Prod00193,Cycling Item 193,Sports,Cycling,8869.59,20.06,Sup0051
+Prod00194,Dairy Item 194,Grocery,Dairy,495.97,0.78,Sup0052
+Prod00195,Team Sports Item 195,Sports,Team Sports,6637.27,22.94,Sup0004
+Prod00196,Staples Item 196,Grocery,Staples,370.1,14.81,Sup0046
+Prod00198,Women Clothing Item 198,Fashion,Women Clothing,1051.81,3.58,Sup0008
+Prod00199,Storage Item 199,Home & Kitchen,Storage,4940.66,12.21,Sup0021
+Prod00200,Team Sports Item 200,Sports,Team Sports,6947.28,23.72,Sup0040
+Prod00201,Fitness Item 201,Sports,Fitness,6468.54,8.31,Sup0005
+Prod00202,Headphones Item 202,Electronics,Headphones,,9.68,Sup0047
+Prod00203,Staples Item 203,Grocery,Staples,1298.8,1.89,Sup0055
+Prod00204,Mobiles Item 204,Electronics,Mobiles,20837.59,24.63,Sup0058
+Prod00205,Bags Item 205,Fashion,Bags,954.1,18.26,Sup0017
+Prod00206,Dairy Item 206,Grocery,Dairy,25.65,12.03,Sup0007
+Prod00207,Cameras Item 207,Electronics,Cameras,50704.26,4.66,Sup0057
+Prod00208,Personal Care Item 208,Grocery,Personal Care,243.67,20.21,Sup0027
+Prod00209,Dairy Item 209,Grocery,Dairy,722.74,22.57,Sup0046
+Prod00210,Yoga Item 210,Sports,Yoga,1838.21,1.11,Sup0006
+Prod00211,Non-Fiction Item 211,Books,Non-Fiction,836.78,8.19,Sup0018
+Prod00212,Children Item 212,Books,Children,1206.67,2.55,Sup0007
+Prod00213,Team Sports Item 213,Sports,Team Sports,4835.86,15.48,Sup0044
+Prod00214,Furniture Item 214,Home & Kitchen,Furniture,4138.48,21.08,Sup0055
+Prod00215,Footwear Item 215,Fashion,Footwear,2326.93,5.32,Sup0053
+Prod00216,Cookware Item 216,Home & Kitchen,Cookware,4770.18,0.77,Sup0013
+Prod00217,Cameras Item 217,Electronics,Cameras,3508.28,17.05,Sup0016
+Prod00218,Dairy Item 218,Grocery,Dairy,,1.29,Sup0055
+Prod00219,Non-Fiction Item 219,Books,Non-Fiction,,22.79,Sup0042
+Prod00220,Team Sports Item 220,Sports,Team Sports,8545.54,7.59,Sup0034
+Prod00221,Team Sports Item 221,Sports,Team Sports,4921.04,8.16,Sup0018
+Prod00222,Furniture Item 222,Home & Kitchen,Furniture,13510.35,17.03,Sup0047
+Prod00223,Personal Care Item 223,Grocery,Personal Care,866.62,13.39,Sup0051
+Prod00224,Furniture Item 224,Home & Kitchen,Furniture,2839.87,19.08,Sup0012
+Prod00225,Footwear Item 225,Fashion,Footwear,4382.87,2.99,Sup0004
+Prod00226,Cameras Item 226,Electronics,Cameras,53420.85,3.48,Sup0013
+Prod00227,Beverages Item 227,Grocery,Beverages,741.62,0.17,Sup0018
+Prod00228,Watches Item 228,Fashion,Watches,3942.81,0.17,Sup0035
+Prod00229,Appliances Item 229,Home & Kitchen,Appliances,9456.3,9.62,Sup0038
+Prod00230,Storage Item 230,Home & Kitchen,Storage,5166.85,9.01,Sup0013
+Prod00231,Laptops Item 231,Electronics,Laptops,13847.12,19.81,Sup0025
+Prod00232,Accessories Item 232,Electronics,Accessories,59683.47,13.7,Sup0031
+Prod00233,Headphones Item 233,Electronics,Headphones,25541.85,12.81,Sup0040
+Prod00234,Bags Item 234,Fashion,Bags,,12.43,Sup0014
+Prod00235,Mobiles Item 235,Electronics,Mobiles,54459.36,2.58,Sup0017
+Prod00236,Storage Item 236,Home & Kitchen,Storage,13130.99,2.94,Sup0055
+Prod00237,Non-Fiction Item 237,Books,Non-Fiction,807.35,2.89,Sup0026
+Prod00238,Personal Care Item 238,Grocery,Personal Care,1050.33,10.43,Sup0038
+Prod00239,Cycling Item 239,Sports,Cycling,7327.33,12.23,Sup0057
+Prod00240,Cookware Item 240,Home & Kitchen,Cookware,11547.8,8.49,Sup0034
+Prod00241,Non-Fiction Item 241,Books,Non-Fiction,1794.81,0.34,Sup0060
+Prod00242,Men Clothing Item 242,Fashion,Men Clothing,1739.04,20.44,Sup0006
+Prod00243,Personal Care Item 243,Grocery,Personal Care,46.3,20.66,Sup0051
+Prod00244,Yoga Item 244,Sports,Yoga,731.9,14.03,Sup0040
+Prod00245,Snacks Item 245,Grocery,Snacks,545.61,9.38,Sup0007
+Prod00246,Comics Item 246,Books,Comics,967.84,17.93,Sup0007
+Prod00247,Children Item 247,Books,Children,,18.42,Sup0036
+Prod00248,Outdoor Item 248,Sports,Outdoor,6643.71,22.04,Sup0027
+Prod00249,Storage Item 249,Home & Kitchen,Storage,6874.76,7.51,Sup0045
+Prod00250,Outdoor Item 250,Sports,Outdoor,6789.26,23.96,Sup0033
+Prod00251,Appliances Item 251,Home & Kitchen,Appliances,10057.28,21.19,Sup0052
+Prod00252,Mobiles Item 252,Electronics,Mobiles,12394.19,7.41,Sup0049
+Prod00253,Yoga Item 253,Sports,Yoga,7886.21,16.63,Sup0060
+Prod00254,Academic Item 254,Books,Academic,1734.71,5.68,Sup0041
+Prod00255,Yoga Item 255,Sports,Yoga,9837.84,18.39,Sup0008
+Prod00256,Women Clothing Item 256,Fashion,Women Clothing,1424.08,1.32,Sup0060
+Prod00257,Yoga Item 257,Sports,Yoga,2001.92,10.43,Sup0035
+Prod00258,Academic Item 258,Books,Academic,1166.1,16.25,Sup0008
+Prod00259,Yoga Item 259,Sports,Yoga,8002.82,18.11,Sup0002
+Prod00260,Cycling Item 260,Sports,Cycling,1006.99,19.34,Sup0035
+Prod00261,Watches Item 261,Fashion,Watches,1186.78,1.85,Sup0044
+Prod00262,Mobiles Item 262,Electronics,Mobiles,3728.95,15.77,Sup0028
+Prod00263,Accessories Item 263,Electronics,Accessories,4262.64,17.16,Sup0039
+Prod00264,Snacks Item 264,Grocery,Snacks,598.67,3.64,Sup0044
+Prod00265,Academic Item 265,Books,Academic,1187.74,13.71,Sup0006
+Prod00266,Furniture Item 266,Home & Kitchen,Furniture,7761.41,4.57,Sup0052
+Prod00267,Cycling Item 267,Sports,Cycling,2134.69,8.96,Sup0043
+Prod00268,Footwear Item 268,Fashion,Footwear,1776.06,23.97,Sup0011
+Prod00269,Comics Item 269,Books,Comics,945.63,12.2,Sup0007
+Prod00270,Bags Item 270,Fashion,Bags,3721.01,20.33,Sup0038
+Prod00271,Team Sports Item 271,Sports,Team Sports,3785.02,18.34,Sup0019
+Prod00272,Appliances Item 272,Home & Kitchen,Appliances,14465.4,4.02,Sup0037
+Prod00273,Comics Item 273,Books,Comics,543.87,12.97,Sup0051
+Prod00274,Mobiles Item 274,Electronics,Mobiles,58845.09,13.63,Sup0012
+Prod00275,Accessories Item 275,Electronics,Accessories,15469.39,22.18,Sup0001
+Prod00276,Accessories Item 276,Electronics,Accessories,38786.88,20.29,Sup0047
+Prod00277,Outdoor Item 277,Sports,Outdoor,6005.01,22.28,Sup0010
+Prod00278,Dairy Item 278,Grocery,Dairy,1097.4,15.18,Sup0031
+Prod00279,Outdoor Item 279,Sports,Outdoor,2792.3,11.36,Sup0038
+Prod00280,Laptops Item 280,Electronics,Laptops,31601.32,15.02,Sup0057
+Prod00281,Beverages Item 281,Grocery,Beverages,1407.85,21.88,Sup0045
+Prod00282,Staples Item 282,Grocery,Staples,1051.13,5.85,Sup0055
+Prod00283,Furniture Item 283,Home & Kitchen,Furniture,255.64,20.12,Sup0027
+Prod00284,Decor Item 284,Home & Kitchen,Decor,5579.81,19.61,Sup0031
+Prod00285,Appliances Item 285,Home & Kitchen,Appliances,11076.37,17.5,Sup0011
+Prod00286,Yoga Item 286,Sports,Yoga,251.85,23.15,Sup0028
+Prod00288,Children Item 288,Books,Children,,6.02,Sup0001
+Prod00289,Staples Item 289,Grocery,Staples,42.74,18.17,Sup0036
+Prod00290,Furniture Item 290,Home & Kitchen,Furniture,13956.25,1.86,Sup0019
+Prod00291,Appliances Item 291,Home & Kitchen,Appliances,10458.75,24.03,Sup0030
+Prod00292,Snacks Item 292,Grocery,Snacks,346.17,8.86,Sup0035
+Prod00293,Cameras Item 293,Electronics,Cameras,40585.03,6.76,Sup0040
+Prod00294,Non-Fiction Item 294,Books,Non-Fiction,1688.87,19.48,Sup0008
+Prod00295,Fitness Item 295,Sports,Fitness,6282.54,22.43,Sup0056
+Prod00296,Team Sports Item 296,Sports,Team Sports,,8.71,Sup0056
+Prod00297,Children Item 297,Books,Children,717.65,6.53,Sup0036
+Prod00298,Decor Item 298,Home & Kitchen,Decor,6373.53,14.31,Sup0003
+Prod00299,Furniture Item 299,Home & Kitchen,Furniture,,10.57,Sup0009
+Prod00301,Decor Item 301,Home & Kitchen,Decor,12178.74,15.16,Sup0037
+Prod00302,Decor Item 302,Home & Kitchen,Decor,11654.95,23.92,Sup0056
+Prod00303,Children Item 303,Books,Children,701.39,6.72,Sup0042
+Prod00304,Appliances Item 304,Home & Kitchen,Appliances,2634.67,18.61,Sup0048
+Prod00305,Cameras Item 305,Electronics,Cameras,33131.81,16.39,Sup0057
+Prod00306,Beverages Item 306,Grocery,Beverages,1002.05,24.38,Sup0035
+Prod00307,Children Item 307,Books,Children,1094.1,7.78,Sup0023
+Prod00308,Decor Item 308,Home & Kitchen,Decor,306.75,13.4,Sup0045
+Prod00309,Cameras Item 309,Electronics,Cameras,47978.9,6.28,Sup0046
+Prod00310,Cookware Item 310,Home & Kitchen,Cookware,11503.39,18.59,Sup0052
+Prod00311,Footwear Item 311,Fashion,Footwear,2385.65,24.24,Sup0002
+Prod00312,Comics Item 312,Books,Comics,691.31,24.95,Sup0030
+Prod00313,Men Clothing Item 313,Fashion,Men Clothing,2083.62,0.36,Sup0003
+Prod00314,Beverages Item 314,Grocery,Beverages,1161.07,17.05,Sup0020
+Prod00315,Children Item 315,Books,Children,1740.81,2.87,Sup0041
+Prod00316,Fitness Item 316,Sports,Fitness,6969.36,19.28,Sup0016
+Prod00317,Fiction Item 317,Books,Fiction,541.31,19.72,Sup0049
+Prod00318,Cameras Item 318,Electronics,Cameras,21810.97,4.78,Sup0012
+Prod00319,Yoga Item 319,Sports,Yoga,5507.74,12.67,Sup0047
+Prod00320,Outdoor Item 320,Sports,Outdoor,2060.72,3.9,Sup0019
+Prod00321,Fitness Item 321,Sports,Fitness,,16.06,Sup0025
+Prod00322,Cookware Item 322,Home & Kitchen,Cookware,1202.48,2.04,Sup0052
+Prod00323,Staples Item 323,Grocery,Staples,802.95,5.44,Sup0034
+Prod00324,Women Clothing Item 324,Fashion,Women Clothing,1394.06,15.98,Sup0023
+Prod00325,Laptops Item 325,Electronics,Laptops,47651.47,22.57,Sup0036
+Prod00326,Comics Item 326,Books,Comics,1145.0,9.03,Sup0029
+Prod00327,Appliances Item 327,Home & Kitchen,Appliances,13371.32,19.3,Sup0040
+Prod00328,Yoga Item 328,Sports,Yoga,1556.4,5.86,Sup0052
+Prod00329,Men Clothing Item 329,Fashion,Men Clothing,4005.94,14.9,Sup0020
+Prod00495,Watches Item 495,Fashion,Watches,2463.15,1.32,Sup0001
+Prod00330,Headphones Item 330,Electronics,Headphones,21201.85,15.08,Sup0001
+Prod00331,Fitness Item 331,Sports,Fitness,1701.34,24.28,Sup0049
+Prod00332,Storage Item 332,Home & Kitchen,Storage,7216.44,10.89,Sup0045
+Prod00333,Personal Care Item 333,Grocery,Personal Care,1108.79,8.12,Sup0060
+Prod00334,Decor Item 334,Home & Kitchen,Decor,9882.84,20.08,Sup0040
+Prod00335,Footwear Item 335,Fashion,Footwear,3696.74,20.82,Sup0019
+Prod00336,Personal Care Item 336,Grocery,Personal Care,321.63,18.26,Sup0010
+Prod00337,Children Item 337,Books,Children,199.92,0.26,Sup0025
+Prod00338,Cookware Item 338,Home & Kitchen,Cookware,9793.76,7.92,Sup0056
+Prod00339,Dairy Item 339,Grocery,Dairy,803.53,8.7,Sup0023
+Prod00340,Team Sports Item 340,Sports,Team Sports,8185.61,7.04,Sup0010
+Prod00341,Comics Item 341,Books,Comics,1188.08,7.84,Sup0039
+Prod00342,Bags Item 342,Fashion,Bags,4040.5,24.89,Sup0003
+Prod00343,Footwear Item 343,Fashion,Footwear,,8.0,Sup0003
+Prod00344,Academic Item 344,Books,Academic,1271.82,15.33,Sup0039
+Prod00345,Comics Item 345,Books,Comics,835.56,4.14,Sup0015
+Prod00346,Storage Item 346,Home & Kitchen,Storage,3162.08,15.45,Sup0045
+Prod00347,Snacks Item 347,Grocery,Snacks,603.34,16.05,Sup0046
+Prod00348,Laptops Item 348,Electronics,Laptops,,7.31,Sup0026
+Prod00349,Watches Item 349,Fashion,Watches,4611.36,12.54,Sup0012
+Prod00350,Watches Item 350,Fashion,Watches,2364.25,6.29,Sup0045
+Prod00351,Fiction Item 351,Books,Fiction,1480.79,15.32,Sup0011
+Prod00352,Appliances Item 352,Home & Kitchen,Appliances,2557.54,18.27,Sup0042
+Prod00353,Women Clothing Item 353,Fashion,Women Clothing,3873.9,12.36,Sup0014
+Prod00354,Accessories Item 354,Electronics,Accessories,,3.75,Sup0042
+Prod00355,Yoga Item 355,Sports,Yoga,1946.83,17.3,Sup0039
+Prod00356,Children Item 356,Books,Children,1658.32,21.09,Sup0005
+Prod00357,Decor Item 357,Home & Kitchen,Decor,10483.07,24.68,Sup0031
+Prod00358,Academic Item 358,Books,Academic,1861.43,12.44,Sup0047
+Prod00359,Outdoor Item 359,Sports,Outdoor,6329.52,20.0,Sup0027
+Prod00360,Non-Fiction Item 360,Books,Non-Fiction,1062.22,0.2,Sup0044
+Prod00361,Laptops Item 361,Electronics,Laptops,12043.93,3.93,Sup0030
+Prod00362,Snacks Item 362,Grocery,Snacks,486.94,20.0,Sup0057
+Prod00363,Headphones Item 363,Electronics,Headphones,59025.32,18.8,Sup0046
+Prod00364,Cameras Item 364,Electronics,Cameras,52684.4,0.98,Sup0013
+Prod00365,Dairy Item 365,Grocery,Dairy,1313.34,2.5,Sup0003
+Prod00366,Fiction Item 366,Books,Fiction,1405.09,2.22,Sup0030
+Prod00367,Academic Item 367,Books,Academic,643.76,19.33,Sup0043
+Prod00368,Accessories Item 368,Electronics,Accessories,33797.73,14.37,Sup0011
+Prod00369,Snacks Item 369,Grocery,Snacks,176.77,14.92,Sup0038
+Prod00370,Decor Item 370,Home & Kitchen,Decor,11412.28,14.22,Sup0006
+Prod00371,Staples Item 371,Grocery,Staples,362.91,22.83,Sup0026
+Prod00372,Storage Item 372,Home & Kitchen,Storage,1826.37,14.39,Sup0033
+Prod00373,Appliances Item 373,Home & Kitchen,Appliances,8061.27,24.35,Sup0025
+Prod00374,Personal Care Item 374,Grocery,Personal Care,276.17,20.93,Sup0008
+Prod00375,Beverages Item 375,Grocery,Beverages,1034.55,16.14,Sup0004
+Prod00376,Fiction Item 376,Books,Fiction,949.05,21.94,Sup0020
+Prod00378,Cookware Item 378,Home & Kitchen,Cookware,3643.33,9.57,Sup0035
+Prod00379,Cycling Item 379,Sports,Cycling,,16.23,Sup0010
+Prod00380,Men Clothing Item 380,Fashion,Men Clothing,4068.52,11.39,Sup0028
+Prod00381,Watches Item 381,Fashion,Watches,2974.1,9.21,Sup0003
+Prod00382,Cycling Item 382,Sports,Cycling,8621.64,12.95,Sup0034
+Prod00383,Fiction Item 383,Books,Fiction,,11.38,Sup0058
+Prod00384,Decor Item 384,Home & Kitchen,Decor,9024.9,14.47,Sup0037
+Prod00385,Fitness Item 385,Sports,Fitness,2922.92,21.45,Sup0001
+Prod00386,Non-Fiction Item 386,Books,Non-Fiction,442.72,0.88,Sup0003
+Prod00387,Watches Item 387,Fashion,Watches,2182.15,21.05,Sup0004
+Prod00388,Watches Item 388,Fashion,Watches,1646.56,11.89,Sup0010
+Prod00389,Personal Care Item 389,Grocery,Personal Care,80.71,10.82,Sup0059
+Prod00390,Headphones Item 390,Electronics,Headphones,39433.43,8.47,Sup0045
+Prod00391,Mobiles Item 391,Electronics,Mobiles,1211.7,0.64,Sup0006
+Prod00392,Bags Item 392,Fashion,Bags,3598.76,14.17,Sup0042
+Prod00393,Storage Item 393,Home & Kitchen,Storage,6883.64,19.26,Sup0017
+Prod00394,Personal Care Item 394,Grocery,Personal Care,411.7,15.28,Sup0012
+Prod00395,Beverages Item 395,Grocery,Beverages,403.31,19.44,Sup0002
+Prod00396,Cameras Item 396,Electronics,Cameras,16352.97,10.93,Sup0055
+Prod00397,Men Clothing Item 397,Fashion,Men Clothing,3508.45,7.61,Sup0004
+Prod00398,Team Sports Item 398,Sports,Team Sports,1930.86,4.82,Sup0045
+Prod00399,Snacks Item 399,Grocery,Snacks,72.83,9.75,Sup0051
+Prod00400,Snacks Item 400,Grocery,Snacks,83.37,11.49,Sup0044
+Prod00401,Men Clothing Item 401,Fashion,Men Clothing,879.63,3.31,Sup0012
+Prod00402,Cameras Item 402,Electronics,Cameras,36867.94,1.62,Sup0013
+Prod00403,Comics Item 403,Books,Comics,1606.69,14.85,Sup0022
+Prod00404,Footwear Item 404,Fashion,Footwear,2305.57,19.45,Sup0002
+Prod00405,Accessories Item 405,Electronics,Accessories,53271.45,13.1,Sup0027
+Prod00406,Outdoor Item 406,Sports,Outdoor,3151.76,4.84,Sup0034
+Prod00407,Yoga Item 407,Sports,Yoga,2098.45,24.22,Sup0031
+Prod00408,Headphones Item 408,Electronics,Headphones,17461.34,23.13,Sup0012
+Prod00409,Laptops Item 409,Electronics,Laptops,43423.48,8.19,Sup0007
+Prod00410,Men Clothing Item 410,Fashion,Men Clothing,2525.16,3.45,Sup0047
+Prod00411,Furniture Item 411,Home & Kitchen,Furniture,4316.97,5.54,Sup0019
+Prod00412,Outdoor Item 412,Sports,Outdoor,5313.33,11.86,Sup0030
+Prod00413,Women Clothing Item 413,Fashion,Women Clothing,,24.51,Sup0003
+Prod00414,Dairy Item 414,Grocery,Dairy,165.04,17.34,Sup0027
+Prod00415,Fiction Item 415,Books,Fiction,1208.54,11.62,Sup0009
+Prod00416,Storage Item 416,Home & Kitchen,Storage,9465.48,18.83,Sup0045
+Prod00418,Fitness Item 418,Sports,Fitness,5488.41,18.82,Sup0056
+Prod00419,Footwear Item 419,Fashion,Footwear,1483.32,13.19,Sup0008
+Prod00420,Storage Item 420,Home & Kitchen,Storage,14188.68,11.47,Sup0006
+Prod00421,Mobiles Item 421,Electronics,Mobiles,,10.44,Sup0044
+Prod00422,Snacks Item 422,Grocery,Snacks,363.85,8.6,Sup0042
+Prod00423,Yoga Item 423,Sports,Yoga,1883.02,24.27,Sup0050
+Prod00424,Bags Item 424,Fashion,Bags,3616.7,3.88,Sup0016
+Prod00425,Staples Item 425,Grocery,Staples,1005.02,24.39,Sup0035
+Prod00426,Beverages Item 426,Grocery,Beverages,1455.82,7.42,Sup0058
+Prod00427,Outdoor Item 427,Sports,Outdoor,,16.97,Sup0008
+Prod00428,Staples Item 428,Grocery,Staples,883.48,0.61,Sup0035
+Prod00429,Cycling Item 429,Sports,Cycling,9102.78,21.35,Sup0024
+Prod00430,Storage Item 430,Home & Kitchen,Storage,10958.62,20.15,Sup0003
+Prod00431,Yoga Item 431,Sports,Yoga,9869.06,18.92,Sup0006
+Prod00432,Bags Item 432,Fashion,Bags,2926.0,20.58,Sup0020
+Prod00433,Beverages Item 433,Grocery,Beverages,1434.92,22.32,Sup0027
+Prod00434,Mobiles Item 434,Electronics,Mobiles,46000.74,6.48,Sup0044
+Prod00435,Yoga Item 435,Sports,Yoga,4718.23,1.37,Sup0024
+Prod00436,Decor Item 436,Home & Kitchen,Decor,7780.92,13.62,Sup0056
+Prod00437,Decor Item 437,Home & Kitchen,Decor,12376.23,8.54,Sup0059
+Prod00438,Bags Item 438,Fashion,Bags,4190.8,11.54,Sup0005
+Prod00439,Decor Item 439,Home & Kitchen,Decor,6712.78,7.65,Sup0048
+Prod00440,Women Clothing Item 440,Fashion,Women Clothing,,12.13,Sup0028
+Prod00441,Yoga Item 441,Sports,Yoga,6742.35,23.01,Sup0014
+Prod00442,Mobiles Item 442,Electronics,Mobiles,9160.64,15.34,Sup0033
+Prod00443,Accessories Item 443,Electronics,Accessories,13411.39,5.39,Sup0033
+Prod00444,Watches Item 444,Fashion,Watches,715.16,19.05,Sup0021
+Prod00445,Decor Item 445,Home & Kitchen,Decor,5022.51,24.41,Sup0029
+Prod00446,Beverages Item 446,Grocery,Beverages,1409.84,16.82,Sup0026
+Prod00447,Watches Item 447,Fashion,Watches,3034.67,8.5,Sup0039
+Prod00448,Personal Care Item 448,Grocery,Personal Care,424.0,11.92,Sup0039
+Prod00450,Furniture Item 450,Home & Kitchen,Furniture,11438.55,7.37,Sup0032
+Prod00451,Yoga Item 451,Sports,Yoga,1367.51,11.09,Sup0003
+Prod00452,Furniture Item 452,Home & Kitchen,Furniture,10778.49,17.15,Sup0037
+Prod00454,Headphones Item 454,Electronics,Headphones,23144.12,7.84,Sup0006
+Prod00455,Furniture Item 455,Home & Kitchen,Furniture,6994.5,17.41,Sup0038
+Prod00456,Appliances Item 456,Home & Kitchen,Appliances,10409.33,4.21,Sup0020
+Prod00457,Accessories Item 457,Electronics,Accessories,13237.77,17.96,Sup0038
+Prod00458,Cycling Item 458,Sports,Cycling,5145.47,7.87,Sup0027
+Prod00459,Outdoor Item 459,Sports,Outdoor,5092.2,23.46,Sup0018
+Prod00460,Dairy Item 460,Grocery,Dairy,704.48,21.11,Sup0027
+Prod00461,Watches Item 461,Fashion,Watches,1577.81,0.74,Sup0052
+Prod00462,Personal Care Item 462,Grocery,Personal Care,221.92,4.44,Sup0055
+Prod00463,Mobiles Item 463,Electronics,Mobiles,19177.33,9.95,Sup0054
+Prod00464,Children Item 464,Books,Children,577.69,5.99,Sup0008
+Prod00465,Comics Item 465,Books,Comics,506.02,10.24,Sup0056
+Prod00466,Headphones Item 466,Electronics,Headphones,32971.83,9.23,Sup0020
+Prod00467,Fiction Item 467,Books,Fiction,1921.08,20.32,Sup0008
+Prod00468,Cameras Item 468,Electronics,Cameras,55686.69,4.05,Sup0029
+Prod00469,Snacks Item 469,Grocery,Snacks,747.7,10.59,Sup0059
+Prod00471,Footwear Item 471,Fashion,Footwear,594.71,21.18,Sup0044
+Prod00472,Non-Fiction Item 472,Books,Non-Fiction,886.96,21.92,Sup0040
+Prod00473,Accessories Item 473,Electronics,Accessories,39002.85,10.06,Sup0028
+Prod00474,Bags Item 474,Fashion,Bags,3649.2,17.85,Sup0013
+Prod00475,Comics Item 475,Books,Comics,1480.47,4.55,Sup0051
+Prod00476,Cycling Item 476,Sports,Cycling,301.14,17.34,Sup0044
+Prod00477,Team Sports Item 477,Sports,Team Sports,4815.14,16.79,Sup0052
+Prod00478,Appliances Item 478,Home & Kitchen,Appliances,6011.25,6.54,Sup0033
+Prod00479,Headphones Item 479,Electronics,Headphones,42760.21,7.06,Sup0024
+Prod00480,Team Sports Item 480,Sports,Team Sports,5014.49,23.08,Sup0041
+Prod00481,Women Clothing Item 481,Fashion,Women Clothing,,8.95,Sup0046
+Prod00482,Non-Fiction Item 482,Books,Non-Fiction,1066.11,22.28,Sup0038
+Prod00483,Outdoor Item 483,Sports,Outdoor,8896.2,17.03,Sup0026
+Prod00484,Furniture Item 484,Home & Kitchen,Furniture,10659.44,8.27,Sup0003
+Prod00485,Children Item 485,Books,Children,1512.96,15.08,Sup0006
+Prod00486,Snacks Item 486,Grocery,Snacks,615.55,7.5,Sup0052
+Prod00487,Children Item 487,Books,Children,1782.17,14.1,Sup0028
+Prod00488,Watches Item 488,Fashion,Watches,646.15,23.27,Sup0034
+Prod00489,Snacks Item 489,Grocery,Snacks,209.13,7.42,Sup0004
+Prod00490,Cycling Item 490,Sports,Cycling,3683.48,0.46,Sup0048
+Prod00491,Snacks Item 491,Grocery,Snacks,889.07,6.66,Sup0042
+Prod00492,Accessories Item 492,Electronics,Accessories,15929.4,11.53,Sup0026
+Prod00493,Staples Item 493,Grocery,Staples,1017.23,3.17,Sup0001
+Prod00494,Men Clothing Item 494,Fashion,Men Clothing,3313.39,7.56,Sup0030
+Prod00496,Personal Care Item 496,Grocery,Personal Care,450.35,15.31,Sup0044
+Prod00497,Accessories Item 497,Electronics,Accessories,1631.67,15.59,Sup0042
+Prod00498,Furniture Item 498,Home & Kitchen,Furniture,7688.39,17.89,Sup0030
+Prod00499,Staples Item 499,Grocery,Staples,940.33,3.27,Sup0013
+Prod00500,Staples Item 500,Grocery,Staples,551.0,21.49,Sup0033
+Prod00501,Outdoor Item 501,Sports,Outdoor,3681.36,6.72,Sup0010
+Prod00502,Mobiles Item 502,Electronics,Mobiles,55634.61,19.56,Sup0040
+Prod00503,Men Clothing Item 503,Fashion,Men Clothing,4572.73,2.53,Sup0042
+Prod00504,Watches Item 504,Fashion,Watches,3892.25,6.69,Sup0046
+Prod00505,Bags Item 505,Fashion,Bags,1295.27,19.88,Sup0024
+Prod00506,Children Item 506,Books,Children,215.85,16.52,Sup0042
+Prod00507,Children Item 507,Books,Children,1470.67,8.64,Sup0053
+Prod00508,Comics Item 508,Books,Comics,1424.89,19.55,Sup0026
+Prod00509,Team Sports Item 509,Sports,Team Sports,5499.74,7.84,Sup0022
+Prod00510,Yoga Item 510,Sports,Yoga,5151.69,6.53,Sup0033
+Prod00511,Cameras Item 511,Electronics,Cameras,18228.69,22.36,Sup0041
+Prod00512,Decor Item 512,Home & Kitchen,Decor,8655.57,12.94,Sup0013
+Prod00513,Comics Item 513,Books,Comics,947.16,13.18,Sup0038
+Prod00514,Cycling Item 514,Sports,Cycling,7370.83,12.67,Sup0032
+Prod00515,Fitness Item 515,Sports,Fitness,5678.46,21.32,Sup0008
+Prod00516,Men Clothing Item 516,Fashion,Men Clothing,4956.9,1.26,Sup0058
+Prod00517,Comics Item 517,Books,Comics,687.74,8.48,Sup0025
+Prod00518,Bags Item 518,Fashion,Bags,3856.06,15.61,Sup0025
+Prod00519,Comics Item 519,Books,Comics,1612.5,14.05,Sup0008
+Prod00520,Yoga Item 520,Sports,Yoga,5125.86,13.32,Sup0042
+Prod00521,Children Item 521,Books,Children,,10.95,Sup0027
+Prod00522,Mobiles Item 522,Electronics,Mobiles,58797.27,16.98,Sup0004
+Prod00523,Headphones Item 523,Electronics,Headphones,23701.41,5.1,Sup0049
+Prod00524,Cycling Item 524,Sports,Cycling,841.49,22.85,Sup0002
+Prod00525,Bags Item 525,Fashion,Bags,802.74,3.6,Sup0035
+Prod00526,Dairy Item 526,Grocery,Dairy,,23.34,Sup0031
+Prod00527,Furniture Item 527,Home & Kitchen,Furniture,825.45,3.12,Sup0009
+Prod00528,Bags Item 528,Fashion,Bags,4049.87,6.86,Sup0043
+Prod00529,Team Sports Item 529,Sports,Team Sports,4869.98,10.36,Sup0058
+Prod00530,Mobiles Item 530,Electronics,Mobiles,32549.64,15.05,Sup0025
+Prod00531,Mobiles Item 531,Electronics,Mobiles,28030.21,8.98,Sup0006
+Prod00532,Women Clothing Item 532,Fashion,Women Clothing,,24.61,Sup0041
+Prod00533,Beverages Item 533,Grocery,Beverages,1029.93,1.67,Sup0017
+Prod00534,Academic Item 534,Books,Academic,579.8,11.38,Sup0040
+Prod00535,Storage Item 535,Home & Kitchen,Storage,,18.04,Sup0004
+Prod00536,Cameras Item 536,Electronics,Cameras,12079.18,1.91,Sup0016
+Prod00537,Fiction Item 537,Books,Fiction,1696.8,11.87,Sup0042
+Prod00539,Cameras Item 539,Electronics,Cameras,3759.94,10.07,Sup0040
+Prod00540,Children Item 540,Books,Children,744.61,19.58,Sup0030
+Prod00541,Accessories Item 541,Electronics,Accessories,42941.31,12.06,Sup0040
+Prod00542,Laptops Item 542,Electronics,Laptops,19044.18,3.73,Sup0020
+Prod00543,Yoga Item 543,Sports,Yoga,5682.61,24.41,Sup0041
+Prod00544,Comics Item 544,Books,Comics,1929.79,10.5,Sup0011
+Prod00545,Beverages Item 545,Grocery,Beverages,710.47,20.38,Sup0052
+Prod00546,Headphones Item 546,Electronics,Headphones,1088.58,9.03,Sup0003
+Prod00547,Furniture Item 547,Home & Kitchen,Furniture,,16.95,Sup0025
+Prod00548,Footwear Item 548,Fashion,Footwear,1974.28,10.87,Sup0046
+Prod00549,Women Clothing Item 549,Fashion,Women Clothing,3532.9,14.7,Sup0055
+Prod00550,Headphones Item 550,Electronics,Headphones,52434.66,16.6,Sup0005
+Prod00551,Team Sports Item 551,Sports,Team Sports,7006.19,6.74,Sup0026
+Prod00552,Women Clothing Item 552,Fashion,Women Clothing,2369.98,21.07,Sup0017
+Prod00553,Dairy Item 553,Grocery,Dairy,939.27,20.12,Sup0021
+Prod00554,Cookware Item 554,Home & Kitchen,Cookware,12662.66,2.51,Sup0005
+Prod00555,Academic Item 555,Books,Academic,1247.27,21.38,Sup0046
+Prod00556,Decor Item 556,Home & Kitchen,Decor,6146.6,12.84,Sup0049
+Prod00557,Non-Fiction Item 557,Books,Non-Fiction,976.12,7.86,Sup0013
+Prod00558,Personal Care Item 558,Grocery,Personal Care,1313.15,16.49,Sup0023
+Prod00559,Dairy Item 559,Grocery,Dairy,67.67,14.23,Sup0052
+Prod00560,Beverages Item 560,Grocery,Beverages,722.67,7.65,Sup0011
+Prod00561,Children Item 561,Books,Children,542.01,1.8,Sup0004
+Prod00562,Personal Care Item 562,Grocery,Personal Care,727.81,3.29,Sup0014
+Prod00563,Bags Item 563,Fashion,Bags,1689.51,11.17,Sup0053
+Prod00564,Cycling Item 564,Sports,Cycling,8833.74,17.81,Sup0020
+Prod00565,Beverages Item 565,Grocery,Beverages,589.3,17.48,Sup0003
+Prod00566,Children Item 566,Books,Children,1037.12,13.84,Sup0024
+Prod00567,Storage Item 567,Home & Kitchen,Storage,7665.06,9.56,Sup0048
+Prod00568,Cookware Item 568,Home & Kitchen,Cookware,10103.89,17.85,Sup0029
+Prod00569,Men Clothing Item 569,Fashion,Men Clothing,,6.87,Sup0029
+Prod00570,Children Item 570,Books,Children,1460.9,9.8,Sup0020
+Prod00571,Beverages Item 571,Grocery,Beverages,155.25,4.84,Sup0043
+Prod00572,Non-Fiction Item 572,Books,Non-Fiction,1290.52,23.36,Sup0026
+Prod00573,Decor Item 573,Home & Kitchen,Decor,4846.17,16.27,Sup0024
+Prod00574,Cycling Item 574,Sports,Cycling,8534.56,15.02,Sup0003
+Prod00575,Non-Fiction Item 575,Books,Non-Fiction,1015.53,15.23,Sup0038
+Prod00576,Yoga Item 576,Sports,Yoga,1415.75,6.13,Sup0006
+Prod00577,Watches Item 577,Fashion,Watches,381.95,6.99,Sup0042
+Prod00578,Staples Item 578,Grocery,Staples,527.24,24.71,Sup0052
+Prod00579,Dairy Item 579,Grocery,Dairy,1307.4,3.58,Sup0014
+Prod00580,Women Clothing Item 580,Fashion,Women Clothing,2245.95,7.61,Sup0037
+Prod00581,Snacks Item 581,Grocery,Snacks,716.66,3.94,Sup0042
+Prod00582,Headphones Item 582,Electronics,Headphones,35913.41,15.17,Sup0005
+Prod00583,Men Clothing Item 583,Fashion,Men Clothing,2603.36,9.36,Sup0032
+Prod00584,Mobiles Item 584,Electronics,Mobiles,23397.15,12.76,Sup0032
+Prod00585,Personal Care Item 585,Grocery,Personal Care,1223.43,16.15,Sup0017
+Prod00586,Bags Item 586,Fashion,Bags,3380.5,17.67,Sup0003
+Prod00587,Beverages Item 587,Grocery,Beverages,1452.17,10.32,Sup0057
+Prod00588,Team Sports Item 588,Sports,Team Sports,7050.29,12.32,Sup0007
+Prod00589,Academic Item 589,Books,Academic,444.95,11.29,Sup0053
+Prod00590,Footwear Item 590,Fashion,Footwear,4383.75,2.19,Sup0008
+Prod00591,Personal Care Item 591,Grocery,Personal Care,1132.66,2.47,Sup0034
+Prod00592,Storage Item 592,Home & Kitchen,Storage,6527.39,23.53,Sup0043
+Prod00593,Cookware Item 593,Home & Kitchen,Cookware,6116.85,13.29,Sup0040
+Prod00594,Cycling Item 594,Sports,Cycling,9430.99,21.84,Sup0003
+Prod00595,Cycling Item 595,Sports,Cycling,9328.54,21.43,Sup0058
+Prod00596,Non-Fiction Item 596,Books,Non-Fiction,1045.56,20.82,Sup0036
+Prod00597,Cameras Item 597,Electronics,Cameras,39927.21,17.91,Sup0011
+Prod00598,Furniture Item 598,Home & Kitchen,Furniture,14279.83,12.32,Sup0051
+Prod00599,Fitness Item 599,Sports,Fitness,3940.17,21.41,Sup0052
+Prod00600,Mobiles Item 600,Electronics,Mobiles,20744.15,9.54,Sup0048

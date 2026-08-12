@@ -1,0 +1,19 @@
+warehouse_id,warehouse_name,city,state,capacity_units
+Wh001,Nagpur Fulfilment Center,Nagpur,Maharashtra,25000
+Wh002,Indore Fulfilment Center,Indore,Madhya Pradesh,20000
+Wh003,Lucknow Fulfilment Center,Lucknow,Uttar Pradesh,15000
+Wh004,Kanpur Fulfilment Center,Kanpur,Uttar Pradesh,20000
+Wh005,Ahmedabad Fulfilment Center,Ahmedabad,Gujarat,25000
+Wh006,Jaipur Fulfilment Center,Jaipur,Rajasthan,5000
+Wh007,Ludhiana Fulfilment Center,Ludhiana,Punjab,10000
+Wh008,Surat Fulfilment Center,Surat,Gujarat,20000
+Wh009,Nashik Fulfilment Center,Nashik,Maharashtra,25000
+Wh010,Hyderabad Fulfilment Center,Hyderabad,Telangana,12000
+Wh011,Delhi Fulfilment Center,Delhi,Delhi,8000
+Wh012,Kolkata Fulfilment Center,Kolkata,West Bengal,20000
+Wh013,Mumbai Fulfilment Center,Mumbai,Maharashtra,5000
+Wh014,Patna Fulfilment Center,Patna,Bihar,10000
+Wh015,Agra Fulfilment Center,Agra,Uttar Pradesh,20000
+Wh016,Bengaluru Fulfilment Center,Bengaluru,Karnataka,20000
+Wh017,Vadodara Fulfilment Center,Vadodara,Gujarat,8000
+Wh018,Chennai Fulfilment Center,Chennai,Tamil Nadu,5000
