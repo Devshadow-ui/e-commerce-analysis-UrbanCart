@@ -15,10 +15,10 @@ This document contains the SQL business questions, queries, outputs, and brief e
 
 # Level 1 — Beginner SQL
 
-## Q1. [total orders, total customers, and total distinct products]
+## Q1. Total orders, total customers, and total distinct products
 
 ### Business Question
-> [How many total orders, total customers, and total distinct products does UrbanCart have?]
+> How many total orders, total customers, and total distinct products does UrbanCart have?
 
 ### SQL Query
 
@@ -37,10 +37,10 @@ SELECT
 
 
 
-## Q2. [ top 10 product categories]
+## Q2. top 10 product categories
 
 ### Business Question
-> [What are the top 10 product categories by total quantity sold?]
+> What are the top 10 product categories by total quantity sold?
 
 ### SQL Query
 
@@ -63,11 +63,11 @@ ORDER BY total_quantity DESC
 
 ---
 
-## Q3. [Order Status]
+## Q3. Order Status
 
 ### Business Question
-> [ What percentage of orders fall into each `order_status` (Delivered/Cancelled/Returned/etc.)?
-]
+> What percentage of orders fall into each `order_status` (Delivered/Cancelled/Returned/etc.)?
+
 
 ### SQL Query
 
@@ -89,11 +89,11 @@ order by pct DESC
 
 ---
 
-## Q4. [10 customers who have placed the most orders]
+## Q4. 10 customers who have placed the most orders
 
 ### Business Question
-> [ List the 10 customers who have placed the most orders, along with their city and segment.
-]
+> List the 10 customers who have placed the most orders, along with their city and segment.
+
 
 ### SQL Query
 
@@ -114,11 +114,11 @@ LIMIT 10;
 
 ---
 
-## Q5. [ average unit price per product category]
+## Q5. average unit price per product category
 
 ### Business Question
-> [What is the average unit price per product category?
-]
+> What is the average unit price per product category?
+
 
 ### SQL Query
 
@@ -138,11 +138,11 @@ ORDER BY avg_unit_price DESC
 
 ---
 
-## Q6. [highest number of orders]
+## Q6. highest number of orders
 
 ### Business Question
-> [ Which 5 cities have generated the highest number of orders?
-]
+> Which 5 cities have generated the highest number of orders?
+
 
 ### SQL Query
 
@@ -166,11 +166,11 @@ LIMIT 5;
 
 ---
 
-## Q7. [Most common payment mode]
+## Q7. Most common payment mode
 
 ### Business Question
-> [Which payment mode is most commonly used, and does that vary by customer segment?
-]
+> Which payment mode is most commonly used, and does that vary by customer segment?
+
 
 ### SQL Query
 
@@ -199,11 +199,11 @@ ORDER BY customer_segment
 
 # Level 2 — Intermediate SQL
 
-## Q8. [month-over-month total revenue]
+## Q8. month-over-month total revenue
 
 ### Business Question
-> [ What is the month-over-month total revenue (quantity × unit price × (1-discount)) trend for 2023?
-]
+> What is the month-over-month total revenue (quantity × unit price × (1-discount)) trend for 2023?
+
 
 ### SQL Query
 
@@ -229,11 +229,11 @@ ORDER BY month
 
 ---
 
-## Q9. [ highest total order value by warehouse]
+## Q9. highest total order value by warehouse
 
 ### Business Question
-> [Which warehouse has shipped the highest total order value? Which has the lowest?
-]
+> Which warehouse has shipped the highest total order value? Which has the lowest?
+
 
 ### SQL Query
 
@@ -257,10 +257,10 @@ ORDER BY total_order_value DESC;
 
 ---
 
-## Q10. [highest average discount given]
+## Q10. Highest average discount given
 
 ### Business Question
-> [ Which product categories have the highest average discount given, and does that correlate with lower or higher total revenue?]
+> Which product categories have the highest average discount given, and does that correlate with lower or higher total revenue?
 
 ### SQL Query
 
@@ -282,10 +282,10 @@ ORDER BY avg_discount DESC;
 
 ---
 
-## Q11. [customers who never placed a order]
+## Q11. Customers who never placed an order
 
 ### Business Question
-> [Find all customers who have never placed a single order (i.e., exist in `customers` but not in `orders`)]
+> Find all customers who have never placed a single order (i.e., exist in `customers` but not in `orders`)
 
 ### SQL Query
 
@@ -305,11 +305,11 @@ WHERE o.order_id IS NULL
 
 ---
 
-## Q12. [highest total revenue generated]
+## Q12. Highest total revenue generated
 
 ### Business Question
-> [Which suppliers have products with the highest total revenue generated (join supplier → product → order_items)?
-]
+> Which suppliers have products with the highest total revenue generated (join supplier → product → order_items)?
+
 
 ### SQL Query
 
@@ -334,11 +334,11 @@ LIMIT 5;
 
 # Level 3 — Advanced SQL
 
-## Q13. [most recent order date for each customer]
+## Q13. Most recent order date for each customer
 
 ### Business Question
-> [For each customer, find their most recent order date and how many days ago that was, relative to the most recent order date in the whole dataset
-]
+> For each customer, find their most recent order date and how many days ago that was, relative to the most recent order date in the whole dataset
+
 
 ### SQL Query
 
@@ -364,14 +364,14 @@ ORDER BY
 
 ### Key SQL Concept
 
-[MAX, GROUP BY, ORDER BY]
+MAX, GROUP BY, ORDER BY
 
 ---
 
 ## Q14. 
 
 ### Business Question
-> [Rank products within each category by total revenue using `RANK()` or `DENSE_RANK()`, and return only the top 3 per category.]
+> Rank products within each category by total revenue using `RANK()` or `DENSE_RANK()`, and return only the top 3 per category.
 
 
 ### SQL Query
@@ -405,15 +405,14 @@ ORDER BY category, revenue_rank;
 
 ### Key SQL Concept
 
-[SUM, COALESCE, DENSE_RANK, PARTITION BY, JOIN]
-
+SUM, COALESCE, DENSE_RANK, PARTITION BY, JOIN
 ---
 
 ## Q15.
 
 ### Business Question
-> [Using a CTE, calculate each customer's total lifetime spend,
-then bucket customers into `High` / `Medium` / `Low` spend tiers using `NTILE(3)` or `CASE`.]
+> Using a CTE, calculate each customer's total lifetime spend,
+then bucket customers into `High` / `Medium` / `Low` spend tiers using `NTILE(3)` or `CASE`.
 
 ### SQL Query
 
@@ -450,15 +449,15 @@ ORDER BY lifetime_spend DESC;
 
 ### Key SQL Concept
 
-[COALESCE, NTILE, CASE]
+COALESCE, NTILE, CASE
 
 ---
 
 ## Q16.
 
 ### Business Question
-> [Calculate a running (cumulative) monthly revenue total for 2023 using a window function (`SUM() OVER (ORDER BY month)`).
-]
+> Calculate a running (cumulative) monthly revenue total for 2023 using a window function (`SUM() OVER (ORDER BY month)`).
+
 
 ### SQL Query
 
@@ -489,15 +488,15 @@ order by month;
 
 ### Key SQL Concept
 
-[COALESCE, EXTRACT, OVER, WHERE]
+COALESCE, EXTRACT, OVER, WHERE
 
 ---
 
 ## Q17. 
 
 ### Business Question
-> [Find the month-over-month % growth in orders using `LAG()`.
-]
+> Find the month-over-month % growth in orders using `LAG()`.
+
 
 ### SQL Query
 
@@ -529,8 +528,8 @@ order BY month
 ## Q18.
 
 ### Business Question
-> [Identify products that are "at risk" — defined as: appear in `order_items` but have had zero orders in the last 6 months of the dataset's date range (use a subquery/anti-join with a date filter).
-]
+> Identify products that are "at risk" — defined as: appear in `order_items` but have had zero orders in the last 6 months of the dataset's date range (use a subquery/anti-join with a date filter).
+
 
 ### SQL Query
 
@@ -559,14 +558,14 @@ where p.product_id NOT IN (select product_id from recent_products);
 
 ### Key SQL Concept
 
-[MAX, DISTINCT, INTERVAL, NOT IN ]
+MAX, DISTINCT, INTERVAL, NOT IN
 
 ---
 
 ## Q19. 
 
 ### Business Question
-> [For each order, calculate what % of that order's total value came from the single most expensive line item (window function `PARTITION BY order_id`).]
+> For each order, calculate what % of that order's total value came from the single most expensive line item (window function `PARTITION BY order_id`).
 
 ### SQL Query
 
@@ -601,14 +600,14 @@ ORDER BY pct_from_top_item DESC NULLS LAST;
 
 ### Key SQL Concept
 
-[COALESCE. OVER, PARTITION, MAX, NULL LAST]
+COALESCE. OVER, PARTITION, MAX, NULL LAST
 
 ---
 
 ## Q20. 
 
 ### Business Question
-> [Build a supplier scorecard: for each supplier, compute total revenue generated,average reliability_score, and average lead_time_days, then rank suppliers by a simple composite score you define (explain your weighting logic in a markdown note — there's no single right answer, but you must justify it).]
+> Build a supplier scorecard: for each supplier, compute total revenue generated,average reliability_score, and average lead_time_days, then rank suppliers by a simple composite score you define (explain your weighting logic in a markdown note — there's no single right answer, but you must justify it).
 
 ### SQL Query
 
@@ -639,7 +638,7 @@ ORDER BY composite_score DESC;
 
 ### Key SQL Concept
 
-[PERCENT_RANK, ORDER BY, OVER]
+PERCENT_RANK, ORDER BY, OVER
 
 ---
 
@@ -669,12 +668,8 @@ ORDER BY composite_score DESC;
 ---
 
 # Overall SQL Learning
-
-[
-
 - Started with basic aggregations and filtering.
 - Progressed to multi-table joins and date-based analysis.
 - Used CTEs to break complex problems into steps.
 - Used window functions for ranking, segmentation and time-based comparisons.
 - Applied SQL to practical e-commerce business problems.
-]
